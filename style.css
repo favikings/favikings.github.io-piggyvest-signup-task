@@ -110,7 +110,7 @@ select option{
 
 @media(max-width:480px){
     .wrapper{
-        width:350px;
+        width:320px;
     }
 }
 
